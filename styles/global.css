@@ -23,7 +23,6 @@
   --text: 400 16px/140% var(--font-family);
   --text-sm: 400 14px/160% var(--font-family);
 
-
 }
 body{
   font: var(--text);
