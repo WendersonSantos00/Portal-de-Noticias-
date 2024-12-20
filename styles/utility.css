@@ -7,6 +7,10 @@
   grid-auto-flow: column;
 }
 
+.grid-flow-row{
+  grid-auto-flow: row;
+}
+
 .grid-cols-2{
   grid-template-columns: 1fr 1fr;
 }
